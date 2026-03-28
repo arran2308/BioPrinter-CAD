@@ -1,7 +1,17 @@
-## License
+## CAD and File Structure
 
-This project is publicly accessible for viewing and academic reference only.
+This repository provides both assembly-level CAD files and print-ready part files.
 
-All rights are reserved by the author. No part of this repository may be used, reproduced, modified, or distributed without explicit permission.
+### Assemblies
+- Provided as `.STEP` files
+- Suitable for viewing, modification, and integration into other designs
+- Includes full system and major subassemblies
 
-For licensing enquiries, please contact the author.
+### Printed Parts
+- Provided as `.3mf` files
+- Optimised for direct use in slicing software
+- Preserves orientation and print intent
+
+This approach ensures:
+- Ease of modification at assembly level
+- Reliable and repeatable manufacturing of printed components
