@@ -1,6 +1,6 @@
 # BioPrinter CAD
 
-![BioPrinter](images/enclosure_external.png)
+![BioPrinter](images/full_assembly.PNG)
 
 ## CAD and File Structure
 
