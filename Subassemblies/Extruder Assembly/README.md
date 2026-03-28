@@ -1,4 +1,4 @@
-# Extruder
+# Toolhead
 
 This folder contains the extruder assembly.
 
