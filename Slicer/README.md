@@ -16,7 +16,7 @@ The slicer setup has been configured to prioritise:
 The image below shows the full set of printed components arranged across multiple build plates.
 
 <p align="center">
-  <img src="../images/slicer_preview.png" width="800">
+  <img src="../images/slicer_preview.png" width="1920">
 </p>
 
 ---
