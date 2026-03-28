@@ -30,7 +30,7 @@ Responsible for X and Y axis movement and positioning of the toolhead.
 ## Z-Axis
 
 <p align="center">
-  <img src="images/z_axis_bare.png" width="600">
+  <img src="../images/z_axis_bare.PNG" width="600">
 </p>
 
 Controls vertical positioning of the print surface.
@@ -40,7 +40,7 @@ Controls vertical positioning of the print surface.
 ## Toolhead
 
 <p align="center">
-  <img src="images/extruder.png" width="600">
+  <img src="../images/extruder.PNG" width="600">
 </p>
 
 Syringe-based extrusion system used for material deposition.
@@ -50,19 +50,11 @@ Syringe-based extrusion system used for material deposition.
 ## Enclosure
 
 <p align="center">
-  <img src="Enclosure/preview.png" width="600">
+  <img src="../images/enclosure_external.png" width="600">
 </p>
 
 Provides environmental control, protection, and system integration.
 
 ---
-
-## Usage
-
-Each subassembly can be opened independently in CAD software for:
-
-- Detailed inspection  
-- Modification and development  
-- Integration into custom configurations  
 
 For manufacturing, refer to the **Printed Parts** folder.
