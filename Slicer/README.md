@@ -29,7 +29,7 @@ The following materials were used throughout the project:
 - **PETG Black**
 - **TPU Black**
 
-PLA should not be used for any part of this project due to its suseptability to creep with the BioPrinters elevated chamber temperature
+**PLA should not be used for any part of this project due to its suseptability to creep with the BioPrinters elevated chamber temperature**
 ### Alternative Material
 
 If an enclosed printer is available, the use of **ASA** is recommended due to its improved UV resistance and environmental durability.
@@ -40,7 +40,7 @@ If an enclosed printer is available, the use of **ASA** is recommended due to it
 
 ### General
 
-Parts have been orientated for both optimised part strength and printability - it should not be necessary to reorientate any part included in the project file (BioPrinter Parts Complete.3mf).
+Parts have been orientated for both optimised part strength and printability - it should not be necessary to reorientate any part included in the project file (**BioPrinter Parts Complete.3mf**).
 
 - **Layer Height:** 0.2 mm  
 - **Wall Count:** 3 walls  
