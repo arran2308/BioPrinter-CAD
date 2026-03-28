@@ -39,7 +39,7 @@ If an enclosed printer is available, the use of **ASA** is recommended due to it
 
 ### General
 
-Parts have been orientated for both optimised part strength and printability - it should not be necessary to reorientate any part included in the project file (##BioPrinter Parts Complete.3mf).
+Parts have been orientated for both optimised part strength and printability - it should not be necessary to reorientate any part included in the project file (BioPrinter Parts Complete.3mf).
 
 - **Layer Height:** 0.2 mm  
 - **Wall Count:** 3 walls  
