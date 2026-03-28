@@ -1,3 +1,7 @@
+# BioPrinter CAD
+
+![BioPrinter](images/enclosure_external.png)
+
 ## CAD and File Structure
 
 This repository provides both assembly-level CAD files and print-ready part files.
@@ -10,4 +14,3 @@ This repository provides both assembly-level CAD files and print-ready part file
 ### Printed Parts
 - Provided as `.3mf` files
 - Optimised for direct use in slicing software
-- Preserves orientation and print intent
