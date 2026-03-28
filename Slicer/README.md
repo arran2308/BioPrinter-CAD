@@ -29,6 +29,7 @@ The following materials were used throughout the project:
 - **PETG Black**
 - **TPU Black**
 
+PLA should not be used for any part of this project due to its suseptability to creep with the BioPrinters elevated chamber temperature
 ### Alternative Material
 
 If an enclosed printer is available, the use of **ASA** is recommended due to its improved UV resistance and environmental durability.
