@@ -16,6 +16,15 @@ The BioPrinter is composed of the following primary subsystems:
 
 ---
 
+## FRAME
+
+<p align="center">
+  <img src="../images/full_assembly_skeletonised.PNG" width="600">
+</p>
+
+Provides environmental control, protection, and system integration.
+
+---
 
 ## Motion System
 
@@ -44,16 +53,6 @@ Controls vertical positioning of the print surface.
 </p>
 
 Syringe-based extrusion system used for material deposition.
-
----
-
-## Enclosure
-
-<p align="center">
-  <img src="../images/enclosure_external.png" width="600">
-</p>
-
-Provides environmental control, protection, and system integration.
 
 ---
 
