@@ -20,7 +20,7 @@ The BioPrinter is composed of the following primary subsystems:
 ## Motion System
 
 <p align="center">
-  <img src="Motion_System/y_axis_full" width="600">
+  <img src="images/y_axis_full" width="600">
 </p>
 
 Responsible for X and Y axis movement and positioning of the toolhead.
@@ -30,7 +30,7 @@ Responsible for X and Y axis movement and positioning of the toolhead.
 ## Z-Axis
 
 <p align="center">
-  <img src="Z_Axis/z_axis_bare.png" width="600">
+  <img src="images/z_axis_bare.png" width="600">
 </p>
 
 Controls vertical positioning of the print surface.
@@ -40,7 +40,7 @@ Controls vertical positioning of the print surface.
 ## Toolhead
 
 <p align="center">
-  <img src="Toolhead/extruder.png" width="600">
+  <img src="images/extruder.png" width="600">
 </p>
 
 Syringe-based extrusion system used for material deposition.
