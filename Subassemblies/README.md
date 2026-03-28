@@ -20,7 +20,7 @@ The BioPrinter is composed of the following primary subsystems:
 ## Motion System
 
 <p align="center">
-  <img src="../images/y_axis_full" width="600">
+  <img src="../images/y_axis_full.PNG" width="600">
 </p>
 
 Responsible for X and Y axis movement and positioning of the toolhead.
