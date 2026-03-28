@@ -7,7 +7,7 @@
 This repository provides both assembly-level CAD files and print-ready part files.
 
 ### Assemblies
-- Provided as `.STEP` and `.F3Z` files
+- Provided as `.STEP` and `.f3z` files
 - Suitable for viewing, modification, and integration into other designs
 - Includes full system and major subassemblies
 
