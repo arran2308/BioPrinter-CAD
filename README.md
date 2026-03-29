@@ -14,3 +14,8 @@ This repository provides both assembly-level CAD files and print-ready part file
 ### Printed Parts
 - Provided as `.3mf` files
 - Optimised for direct use in slicing software
+
+## Related Repositories
+
+- Firmware Configuration: https://github.com/arran2308/BioPrinter-Firmware  
+- Printing Parameters: https://github.com/arran2308/BioPrinter-Printing-Parameters
