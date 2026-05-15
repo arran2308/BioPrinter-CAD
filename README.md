@@ -19,3 +19,15 @@ This repository provides both assembly-level CAD files and print-ready part file
 
 - Firmware Configuration: https://github.com/arran2308/BioPrinter-Firmware  
 - Printing Parameters: https://github.com/arran2308/BioPrinter-Printing-Parameters
+
+## License
+
+This project is open-source under CERN-OHL-S v2.
+
+You are free to use, modify and distribute this design, including for
+commercial use, provided attribution is given to the original author
+and derivative works remain open under the same license.
+
+Original project:
+CellForm.ink Biomedical 3D Printer
+Created by Arran Arthur
